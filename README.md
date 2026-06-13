@@ -1,46 +1,105 @@
 <h1 align="center">Hi 👋, I'm Rahul Madhan</h1>
 <h3 align="center">AI & ML Enthusiast | Software Developer | GATE Qualified</h3>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech CSE (AI & ML)
-- 📚 Preparing for M.Tech admissions through CCMT
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Learning Flask, Spring Boot, Datadog, Azure DevOps
-- 🎯 Looking for Software Engineering opportunities
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Spring+Boot+Learner;Future+Software+Engineer" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+🎓 B.Tech CSE (AI & ML)
 
----
+📚 Preparing for M.Tech Admissions through CCMT
 
-## 📊 GitHub Stats
+💡 Passionate about AI, ML and Software Development
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrahulmadhan&show_icons=true&theme=tokyonight)
+🌱 Learning Spring Boot, Datadog, Azure DevOps
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mrahulmadhan&theme=tokyonight)
+🎯 Goal: Secure a Software Engineering Role
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack
 
-- Machine Learning
-- Spring Boot
-- Datadog Monitoring
-- Azure DevOps
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,flask,html,css,js,git,github,vscode"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🏦 Featured Project
 
-- LinkedIn: www.linkedin.com/in/rahul-madhan-masapogu-587748250
+### ApexVolt - Digital Banking Platform
+
+💳 Secure Banking Application
+
+🔐 Authentication & Authorization
+
+💰 Savings Account Management
+
+📊 Transaction History
+
+👤 Customer Profile Management
+
+🏦 Fund Transfers
+
+🗄️ MySQL Database
+
+⚙️ Spring Boot Backend
+
+🎨 Responsive Frontend
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrahulmadhan&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahulmadhan&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrahulmadhan&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+✅ Complete ApexVolt Banking Application
+
+✅ Learn Spring Boot & Microservices
+
+✅ Strengthen DSA
+
+✅ Secure Software Engineering Role
+
+✅ Complete M.Tech Admission Process
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my projects, consider starring them!
+</p>
